@@ -5,10 +5,10 @@ the [Hare](https://harelang.org) programming language.
 
 ## Libraries
 
-* [glad2-hare](https://git.sr.ht/~vladh/glad): Hare integration for glad, the OpenGL/Vulkan/etc. binding generator.
-* [hare-gl](https://git.sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
-* [hare-glm](https://git.sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare.
-* [hare-sdl2](https://git.sr.ht/~sircmpwn/hare-sdl2): SDL2 bindings for Hare
+* [~sircmpwn/hare-sdl2](https://git.sr.ht/~sircmpwn/hare-sdl2): SDL2 bindings for Hare
+* [~vladh/glad](https://git.sr.ht/~vladh/glad): Hare integration for glad, the OpenGL/Vulkan/etc. binding generator.
+* [~vladh/hare-gl](https://git.sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
+* [~vladh/hare-glm](https://git.sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare.
 * [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
 
 ## Projects
