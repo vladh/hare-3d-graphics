@@ -13,5 +13,5 @@ the [Hare](https://harelang.org) programming language.
 ## Projects
 
 * [~turminal/raytracing](https://git.sr.ht/~turminal/raytracing): An implementation of the ray tracer from raytracing.github.io in Hare.
-* [~vladh/hare-peony](https://git.sr.ht/~vladh/hare-peony): A 3D game engine written from scratch in Hare.
+* [~vladh/hare-hazel](https://git.sr.ht/~vladh/hare-hazel): A 3D game engine written from scratch in Hare.
 * [~vladh/starfield](https://git.sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver, implemented in Hare.
