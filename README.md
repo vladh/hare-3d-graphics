@@ -9,7 +9,8 @@ the [Hare](https://harelang.org) programming language.
 * [~vladh/glad](https://git.sr.ht/~vladh/glad): Hare integration for glad, the OpenGL/Vulkan/etc. binding generator
 * [~vladh/hare-gl](https://git.sr.ht/~vladh/hare-gl): OpenGL bindings for Haru
 * [~vladh/hare-glm](https://git.sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare
-* [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Har
+* [~vladh/hare-obj](https://sr.ht/~vladh/hare-obj): OBJ file parser for Hare
+* [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
 
 ## Projects
 
